@@ -1,4 +1,4 @@
 # demo-repo
 This is my demo repository
 <br>
-Author - Vidhi Kumari
+Author - Vidhi Kumari Singh
